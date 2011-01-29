@@ -1,0 +1,3 @@
+file /home/dado/development/elua/projects/lm3s_games/SConstruct,line 174:
+	Configure(confdir = .sconf_temp)
+
